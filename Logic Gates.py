@@ -10,7 +10,7 @@ def OR(a,b):
  return 1
  else:
  return 0
-5
+
 def XOR(a,b):
  if (a!=b):
  return 1
